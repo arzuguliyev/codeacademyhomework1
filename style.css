@@ -1,0 +1,597 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: #c04449;
+}
+
+h3{
+    color: white;
+}
+
+div.container
+{
+    width: 60%;
+    margin: auto;
+}
+
+div.headerTextDiv
+{
+ 
+  float: left;
+}
+
+p#headerText
+{
+    color: white;
+    font-size: 33px;
+    
+}
+
+div.searchDiv
+{
+   
+    margin-left: 42px;
+    float: left;
+    margin-top: 30px;
+}
+
+input#search
+{
+    height: 34px;
+    width: 256px;
+}
+
+div.uploadDiv
+{
+
+    margin-left: 10px;
+    float: left;
+    margin-top: 30px;
+}
+
+button#uploadButton
+{
+    height: 34px;
+ 
+}
+
+div.profilePhotoDiv
+{
+
+  
+     float: left;
+  
+    }
+
+div.iconDiv
+{
+    float: left;
+    margin-top: 24px;
+    margin-left: 30px;
+}
+
+div.userTextDiv
+{
+    float: left;
+}
+
+i#userIcon
+{
+    font-size: 41px;
+    color: white;
+}
+
+div.userTextDiv
+{
+    margin-left: 16px;
+    margin-top: 29px;
+}
+
+
+
+div.userTextDiv h5, span
+{
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+
+div.nav 
+{
+  clear: both;
+  border-top: 4px solid white;
+  border-bottom: 4px solid white;
+
+}
+
+ul#menu
+{
+    list-style: none;
+}
+
+ul#menu li 
+{
+    display: inline;
+    font-size: 22px;
+    color: white;
+    padding-left: 14px;
+  }
+
+  ul#menu li a
+{
+    text-decoration: none;
+    color: white;
+}
+
+
+div.main 
+{
+    margin-top: 40px;
+}
+
+h3#videoHeader
+{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+
+div.card1
+{
+  
+   float: left;
+   width: 50%
+}
+
+.videos
+{
+
+}
+
+div.video1
+{
+    width: 100%;
+    margin-top: 5px;
+}
+
+div.video1 video 
+{
+    width: 100%;
+  
+}
+
+h3#video1Header
+{
+    position: relative;
+    margin-top: -79px;
+    margin-left: 5px;
+    color: white;
+}
+
+div.video2
+{
+    width: 45%;
+    margin-top: 40px;
+  display: inline-block;
+    
+}
+
+div.video2 video 
+{
+    width: 100%;
+  
+}
+
+h6#video2Header
+{
+    position: relative;
+    margin-top: -44px;
+    margin-left: 5px;
+    color: white;
+}
+
+
+div.video3
+{
+    width: 45%;
+    margin-top: 40px;
+    margin-left: 36px;
+    display: inline-block;
+   
+    
+}
+
+div.video3 video 
+{
+    width: 100%;
+  
+}
+
+h6#video3Header
+{
+    position: relative;
+    margin-top: -44px;
+    margin-left: 5px;
+    color: white;
+}
+
+div.card2 
+{
+    display: inline-block;
+}
+
+div.card2
+{
+ 
+display: inline-block;
+  
+}
+
+
+div.video4 
+{
+
+    display: inline-block;
+     margin-top: 5px;
+       margin-left: 10px;
+}
+
+div.video4 video 
+{
+    width: 85%;
+}
+
+
+
+div.videos2
+{
+margin-top: 21px;
+ width: 30%;
+
+ float: left;
+}
+
+div.uploadbuttonDiv
+{
+    width: 82%;
+    border: 1px solid white;
+    height: 98px;
+    margin-top: 13px;
+    margin-left: 10px;
+}
+
+div.uploadbuttonDiv i{
+
+    color: white;
+    font-size: 60px;
+    margin-top: 14px;
+    margin-left: 10px;
+    float: left;
+}
+
+.activites
+{     
+    width: 19%;
+    float: left;
+    border-bottom: 4px solid white;
+}
+.activitesHeader
+{
+    border-bottom: 4px solid white;
+    width: 108%;
+    float: left;
+}
+
+
+.actDataImg{
+    width: 50%;
+    float: left;
+    margin-top: 5px;
+}
+.actDataImg img{
+    width: 100%;
+  
+}
+
+.actDataText {
+    width: 50%;
+    float: left;
+    margin-top: -15px;
+
+   
+}
+
+.actDataText p {
+   
+    color: white;
+    text-align: justify;
+    margin-left: 5px;
+}
+div.people{
+    clear: both;
+    width: 50%;
+ 
+}  
+
+
+div.photocard1
+{
+ width: 70%;
+ border: 1px solid yellow;
+ float: left;
+}
+
+.photo1
+{
+    width: 100%
+}
+
+.photo1 img 
+{
+    width: 100%;
+}
+
+.photo1text
+{
+    
+    margin-top: -80px;
+    margin-left: 20px;
+   
+}
+
+.photo1text p, h1
+{
+  color: yellow;
+}
+.photo1text p
+{
+    margin-top: -24px;
+}
+
+.photo2
+{
+    float: left;
+    width: 48%;
+    
+}
+
+
+.photo2 img 
+{
+  width: 100%;
+
+}
+
+.photo2text
+{
+    
+    margin-top: -80px;
+    margin-left: 20px;
+   
+   
+}
+
+.photo2text p, h1
+{
+  color: yellow;
+}
+.photo2text p
+{
+    margin-top: -24px;
+}
+
+
+
+.photo3
+{
+    float: left;
+    width: 48%;
+    margin-left: 16px;
+}
+
+
+.photo3 img 
+{
+  width: 100%;
+
+}
+
+.photo3text
+{
+    
+    margin-top: -80px;
+    margin-left: 20px;
+   
+   
+}
+
+.photo3text p, h1
+{
+  color: yellow;
+}
+.photo3text p
+{
+    margin-top: -24px;
+}
+
+
+div.photocard2
+{
+
+
+ float: left;
+ margin-left: 418px;
+ margin-top: -447px;
+}
+
+
+div.photo4
+{
+    width: 255%;
+}
+
+div.photo4 img
+{
+    width: 100%;    
+}
+
+
+.photo4text
+{
+    margin-top: -61px;
+}
+
+.photo4text p, h5
+{
+  color: yellow;
+}
+.photo4text p
+{
+    margin-top: -24px;
+}
+
+
+div.uploadPhotoButton
+{
+ 
+  width: 100px;
+  height: 100px;
+}
+
+div.documents
+{
+    clear: both;
+    width: 50%;
+  
+}
+
+div.photo5
+{
+    width: 255%;
+    margin-top: 26px;
+}
+
+div.photo5 img
+{
+    width: 100%;    
+}
+
+
+.photo5text
+{
+    margin-top: -61px;
+}
+
+.photo5text p, h5
+{
+  color: yellow;
+}
+.photo5text p
+{
+    margin-top: -24px;
+}
+
+div.channels
+{ 
+    clear: both;
+    width: 100px;
+    height: 100px;
+    border-top: 4px solid white;
+    border-bottom: 4px solid white;   
+    float: right;
+    margin-top: -908px;
+    width: 23%;
+    margin-right: 119px;
+    height: 916px;
+    
+}
+
+div.chanCard
+{
+    width: 45%;
+    display: inline-block;
+    margin-top: 16px;
+}
+
+div.chanCard img 
+{
+width: 100%;
+}
+
+.footer
+{
+    clear: both;
+    border-top: 4px solid white;
+    margin-top: 200px;
+}
+
+.socical
+{
+    margin-top: 10px;
+    margin-left: 272px;
+}
+
+.socical i 
+{
+    color: white;
+    font-size: 22px;
+}
+
+
+.footer-nav
+{
+    margin-left: 217px;
+}
+ul#menu2
+{
+    list-style: none;
+}
+
+ul#menu2 li 
+{
+    display: inline;
+    font-size: 15px;
+    color: white;
+    padding-left: 14px;
+  }
+
+  ul#menu2 li a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.author
+{
+    margin-left: 266px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
